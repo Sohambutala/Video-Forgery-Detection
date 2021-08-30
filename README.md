@@ -1,2 +1,2 @@
 # Video-Forgery-Detection
-Video Forgery Detection using Python
+Video Forgery Detection using Python (Without UI part)
