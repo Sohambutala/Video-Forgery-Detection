@@ -1,5 +1,5 @@
 # Video-Forgery-Detection
-Video Forgery Detection using Python (Without front-end)
+Video Forgery Detection using Python.
 
 
 # Disclaimer !
